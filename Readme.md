@@ -226,4 +226,4 @@ MIT — free to use, modify and distribute.
 
 ---
 
-Built with 🐍 — run it alone, plug it in, scale it up.
+Built with ❤️ — because "standard" protection is never enough.
